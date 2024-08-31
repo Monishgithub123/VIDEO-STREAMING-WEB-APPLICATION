@@ -35,7 +35,7 @@ A real-time video streaming application built using the MERN stack that supports
 1. Clone the repository:
 
    ```bash
-(https://github.com/Monishgithub123/VIDEO-STREAMING-WEB-APPLICATION.git)
+https://github.com/Monishgithub123/VIDEO-STREAMING-WEB-APPLICATION.git
 
 
 2.Navigate to the project directory:
