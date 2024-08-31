@@ -42,13 +42,16 @@ A real-time video streaming application built using the MERN stack that supports
 2.Navigate to the project directory:
 cd video-streaming-app
 
+
 3.Install server dependencies:
 cd backend
+
 npm install
 
 
 4.Create a .env file in the backend directory with the following content:
 MONGO_URI=mongodb://localhost:27017/video-streaming-app
+
 PORT=5000
 
 5.Start the backend server:
@@ -57,13 +60,20 @@ npm start
 6.Install frontend dependencies:
 
 cd ../frontend
+
 npm install
+
 
 7.Start the frontend development server:
 npm start
+
+
 8.Access the application at http://localhost:3000
 
-Usage
+Usage:
+
 Create Room: Enter your username and create a room.
+
 Join Room: Share the room ID with others and join the room.
+
 Toggle Audio/Video: Use the buttons to enable or disable your audio and video.
