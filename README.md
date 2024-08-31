@@ -19,7 +19,7 @@ A real-time video streaming application built using the MERN stack that supports
 ## Screenshots
 
 ### Login Page
-![Login Page](./screenshots/login-page.png)
+![Login Page](./loginpage.png)
 
 ### Room Page
 ![Room Page](./Roompage.png)
